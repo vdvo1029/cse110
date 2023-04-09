@@ -4,7 +4,7 @@
 ```
 git push
 ```
-[amazon](amazon.com)
+[amazon](https://www.amazon.com/)
 
 [top](#small)
 
