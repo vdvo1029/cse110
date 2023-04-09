@@ -4,15 +4,16 @@
 ```
 git push
 ```
-[amazon](amazon.com)
+[amazon](https://www.amazon.com/)
 
 [top](#small)
+
 
 [README](README.md)
 
 ## small
 
-- one
+- one1
 - two
 - three
 
